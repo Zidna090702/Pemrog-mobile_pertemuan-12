@@ -1,1 +1,3 @@
-# Pemrog-mobile_pertemuan-12
+# PEMROGRAMAN MOBILE 1 - PERTEMUAN 12
+
+# 												FRAGMENT
